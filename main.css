@@ -1,0 +1,51 @@
+body{
+	background-color: #000000;
+}
+
+#login{
+	width: 424px;
+	height: 654px;
+	background-color: #ffffff;
+	vertical-align: center;
+
+}
+
+#avatar{
+	background-color: #003344;
+	width: 424px;
+	height: 264px;
+}
+
+#in-put{
+	width: 424px;
+	height: 391px;
+}
+
+.loginTitle{
+	text-align:center; 
+}
+
+input{
+	width: 348px;
+	height: 67px;
+	/*padding: 0px, 70px;
+	border: 1px;
+	border-style: solid, #000;
+	border-radius: 20px;*/
+
+/*}
+#loginPass{
+	width: 348px;
+	height: 67px;
+	padding: 0px, 70px;
+	border: 1px;
+	border-style: solid, #000;
+	border-radius: 20px;
+
+}*/
+button{
+	
+}
+#logIn{
+	text-align: center;
+}
